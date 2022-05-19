@@ -1,8 +1,7 @@
-
-echo "＃T2718" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/T2718/T2718.git
- git push- uオジャーナル
+public class Hello{
+    public static void Main(){
+        // Your code here!
+        
+        System.Console.WriteLine("Hello C#");
+    }
+}
