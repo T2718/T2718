@@ -1,7 +1,8 @@
 public class Hello{
     public static void Main(){
         // Your code here!
-        
+        var a=1;
+        Console.WriteLine (a);
         System.Console.WriteLine("Hello C#");
     }
 }
